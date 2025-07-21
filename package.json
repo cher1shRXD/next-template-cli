@@ -1,6 +1,6 @@
 {
-  "name": "cher1sh-next-template-cli",
-  "version": "1.0.1",
+  "name": "create-cher1sh-next-app",
+  "version": "1.0.0",
   "description": "create cher1sh-next-app project",
   "bin": {
     "create-cher1sh-next-app": "./bin/index.js"
