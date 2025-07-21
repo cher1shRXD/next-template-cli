@@ -1,0 +1,17 @@
+{
+  "name": "cher1sh-next-template-cli",
+  "version": "1.0.1",
+  "description": "create cher1sh-next-app project",
+  "bin": {
+    "create-cher1sh-next-app": "./bin/index.js"
+  },
+  "dependencies": {
+    "degit": "^2.8.4",
+    "prompts": "^2.4.2"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/degit": "^2.8.6",
+    "@types/prompts": "^2.4.9"
+  }
+}
